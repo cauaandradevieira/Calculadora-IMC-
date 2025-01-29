@@ -2,7 +2,7 @@
 
 Este é um aplicativo desenvolvido em Java Swing para calcular o Índice de Massa Corporal (IMC). O usuário insere seu peso e altura, clica no botão de calcular e recebe o resultado do IMC junto com sua categoria correspondente.
 
-#Funcionalidades
+Funcionalidades
 
 ✅ Exibe o IMC e sua classificação.
 
@@ -10,7 +10,7 @@ Este é um aplicativo desenvolvido em Java Swing para calcular o Índice de Mass
 
 ✅ Interface simples e intuitiva.
 
-#Como usar
+Como usar
 
 1️⃣ Insira seu peso (kg).
 
